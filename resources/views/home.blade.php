@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    Dashboard de mes couilles
                 </div>
             </div>
         </div>
